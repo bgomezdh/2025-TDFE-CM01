@@ -1,0 +1,36 @@
+/* selectores de etiqueta */
+h1{
+    color: #e11511;
+}
+
+p{
+    color: #98a206;
+}
+
+/* selectores de clases */
+.etiquetaAzul{
+    color: blue;
+}
+
+.etiquetaVerde{
+    color: #034f08;
+}
+
+/* selectores de ID */
+#bodyIndex{
+    background-image: url("../img/messi.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;
+    background-size: 200px;
+
+}
+
+.listado .segundo{
+    font-size: 30px;
+}
+
+.colorido{
+    background-color: aqua;
+    
+}

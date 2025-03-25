@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    /* margin: 0px;
+    padding: 0px; */
+}
+
+.contenido{
+    color: white;
+    background-color: blue;
+    height: 130px;
+    width: 120px;
+    padding: 12px;
+    border: solid 3px green;
+    margin: 10px 0px;
+}
